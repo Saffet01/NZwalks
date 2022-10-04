@@ -1,0 +1,5 @@
+﻿
+
+3 tane tablo var databasede bunlar Region, Walk ve WalkDifficulty
+
+bu tabloların bazı değerleri biribiriyle bağlantılı 

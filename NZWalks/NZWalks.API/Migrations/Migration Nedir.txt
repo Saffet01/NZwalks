@@ -1,0 +1,10 @@
+
+
+kod kısmında yaptığımız değişiklikleri veritabanına yansıtmaya Migration demekteyiz.
+
+Gerek kodlarda, gerekse de programın akışını sağlayan algoritmada düzenlenme olacaksa da 
+bu yazımızı asıl ilgilendiren veritabanının güncellenmesi gereken durumlardır. 
+
+Biliyoruz ki, Code First deseni uygulanan bir projede veritabanına direkt olarak müdahale etmek oldukça sakıncalıdır. 
+Haliyle yapacağımız ekleme, çıkarma veyahut güncelleme durumlarını tabloları temsil eden classlar üzerinde gerçekleştirmeli0
+ve Generate etmeliyiz.
